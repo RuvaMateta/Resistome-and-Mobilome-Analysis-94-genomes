@@ -2,8 +2,6 @@
 
 Record of the commands behind the comparative genomics analysis of 94 bacterial genomes (*E. coli*, *K. pneumoniae*, *Salmonella*; Malawi, Zambia, South Africa), from read download to plasmid and phylogeny analysis.
 
-Rebuilt from three sources, because the shell history on the workstation keeps only the last 2,000 commands:
-
 | Stage | Source |
 | --- | --- |
 | Batch 1 download, read QC, trimming, SPAdes (original 90 genomes) | Workflow Commands document |
