@@ -1,0 +1,23 @@
+Assembly	ERR15165597
+# contigs (>= 0 bp)	681
+# contigs (>= 1000 bp)	48
+# contigs (>= 5000 bp)	34
+# contigs (>= 10000 bp)	33
+# contigs (>= 25000 bp)	30
+# contigs (>= 50000 bp)	24
+Total length (>= 0 bp)	5650801
+Total length (>= 1000 bp)	5516074
+Total length (>= 5000 bp)	5481691
+Total length (>= 10000 bp)	5475014
+Total length (>= 25000 bp)	5430819
+Total length (>= 50000 bp)	5208964
+# contigs	66
+Largest contig	695574
+Total length	5529157
+GC (%)	57.15
+N50	275707
+N90	86345
+auN	301438.5
+L50	7
+L90	22
+# N's per 100 kbp	27.49

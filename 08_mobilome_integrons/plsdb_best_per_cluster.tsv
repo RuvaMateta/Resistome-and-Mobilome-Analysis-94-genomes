@@ -1,0 +1,347 @@
+sample	cluster	sseqid	aligned	stitle	ident	cluster_size	cov	pass
+E_coli_SRR29213288	plasmid_AB042	CP043749.1	3148	CP043749.1 Escherichia coli strain CVM N16EC0140 plasmid pN16EC0140-2, complete sequence	100.0	3148	1.0	True
+E_coli_SRR29213310	plasmid_AB687	CP098968.1	1583	CP098968.1 Escherichia coli strain RHB46-C23 plasmid unnamed3, complete sequence	100.0	1583	1.0	True
+E_coli_SRR29213328	plasmid_AD097	NZ_MT077888.1	4677	NZ_MT077888.1 Escherichia coli plasmid p65, complete sequence	100.0	3906	1.0	True
+E_coli_SRR29213329	plasmid_AB240	CP099001.1	2334	CP099001.1 Escherichia coli strain RHB46-C05 plasmid unnamed5, complete sequence	100.0	2334	1.0	True
+E_coli_SRR29213329	plasmid_AB686	CP056612.1	1642	CP056612.1 Escherichia coli strain RHBSTW-00320 plasmid pRHBSTW-00320_5, complete sequence	100.0	1642	1.0	True
+E_coli_SRR29213334	plasmid_AA669	NZ_CP093389.1	3253	NZ_CP093389.1 Salmonella enterica strain P048595 plasmid unnamed3, complete sequence	100.0	3253	1.0	True
+E_coli_SRR31865339	plasmid_AC748	NZ_CP048378.1	2165	NZ_CP048378.1 Escherichia coli strain 38 plasmid p38_B, complete sequence	100.0	2165	1.0	True
+E_coli_SRR31865355	plasmid_AB042	CP063728.1	2776	CP063728.1 Escherichia coli strain 18MD05VL07 005213EC plasmid pVPS18EC0676-5, complete sequence	100.0	2776	1.0	True
+E_coli_SRR36707264	plasmid_AB687	NZ_CP019004.1	1724	NZ_CP019004.1 Escherichia coli strain Ecol_AZ155 plasmid pECAZ155_4, complete sequence	100.0	1724	1.0	True
+E_coli_SRR36707307	plasmid_AB595	NZ_AP019539.1	19185	NZ_AP019539.1 Escherichia coli strain THO-008 plasmid pTHO-008_1, complete sequence	100.0	12852	1.0	True
+E_coli_SRR36707392	plasmid_AA161	NZ_CP048335.1	4192	NZ_CP048335.1 Escherichia coli strain 10 plasmid p010_E, complete sequence	100.0	4192	1.0	True
+K_pneumoniae_ERR15165589	plasmid_AB951	NZ_CP068909.1	2537	NZ_CP068909.1 Klebsiella pneumoniae strain RIVM_C019453 plasmid pRIVM_C019453_1, complete sequence	100.0	2537	1.0	True
+K_pneumoniae_ERR15165592	plasmid_AB236	CP067583.1	2113	CP067583.1 Klebsiella pneumoniae strain ARLG-4874 plasmid pC606_4, complete sequence	100.0	2113	1.0	True
+K_pneumoniae_ERR15165592	plasmid_AB951	NZ_CP068909.1	2538	NZ_CP068909.1 Klebsiella pneumoniae strain RIVM_C019453 plasmid pRIVM_C019453_1, complete sequence	100.0	2538	1.0	True
+K_pneumoniae_ERR15165594	plasmid_AA110	CP052149.1	1701	CP052149.1 Klebsiella pneumoniae strain F16KP0108 plasmid pF16KP0108-2, complete sequence	100.0	1701	1.0	True
+K_pneumoniae_ERR15165597	plasmid_AA110	CP067662.1	2921	CP067662.1 Klebsiella pneumoniae strain ARLG-4408 plasmid pC4698_2, complete sequence	100.0	2921	1.0	True
+K_pneumoniae_ERR15165600	plasmid_AA110	CP052149.1	2961	CP052149.1 Klebsiella pneumoniae strain F16KP0108 plasmid pF16KP0108-2, complete sequence	100.0	2961	1.0	True
+K_pneumoniae_SRR31202983	plasmid_AB040	AP028542.1	2571	AP028542.1 Serratia marcescens KC069 plasmid pKC069_2 DNA, complete sequence	100.0	2571	1.0	True
+K_pneumoniae_SRR31202985	plasmid_AB055	CP031813.1	2744	CP031813.1 Klebsiella pneumoniae strain INF014-sc-2279884 plasmid unnamed3, complete sequence	100.0	2744	1.0	True
+K_pneumoniae_SRR31202987	plasmid_AA130	NZ_LR890449.1	4043	NZ_LR890449.1 Klebsiella pneumoniae strain INF171 isolate INF171 plasmid 4, complete sequence	100.0	4043	1.0	True
+K_pneumoniae_SRR31202998	plasmid_AA356	NC_032098.1	5739	NC_032098.1 Enterobacter cloacae plasmid pEC4365, complete sequence	100.0	5734	1.0	True
+K_pneumoniae_SRR32003848	plasmid_novel_e53a3a9bba8572dd604094337cee9592	NZ_CP026048.1	7537	NZ_CP026048.1 Raoultella planticola strain FDAARGOS_64 plasmid unnamed1, complete sequence	100.0	7537	1.0	True
+Salmonella_SRR32528473	plasmid_AB042	NC_019085.1	3066	NC_019085.1 Escherichia coli plasmid pPAB19-3, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528473	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528477	plasmid_AB042	NZ_CP045445.1	3066	NZ_CP045445.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain 9355 plasmid p2_9355, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528477	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528485	plasmid_AB042	NZ_CP045445.1	3066	NZ_CP045445.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain 9355 plasmid p2_9355, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528485	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528487	plasmid_AA163	NZ_CP012927.1	3449	NZ_CP012927.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_3, complete sequence	100.0	3449	1.0	True
+Salmonella_SRR32528487	plasmid_AB042	NC_019085.1	3066	NC_019085.1 Escherichia coli plasmid pPAB19-3, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528487	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528490	plasmid_AA163	NZ_AP022048.1	3449	NZ_AP022048.1 Escherichia coli strain WP4-S17-ESBL-03 plasmid pWP4-S17-ESBL-03_4, complete sequence	100.0	3449	1.0	True
+Salmonella_SRR32528490	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528499	plasmid_AA163	NZ_CP012927.1	3449	NZ_CP012927.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_3, complete sequence	100.0	3449	1.0	True
+Salmonella_SRR32528499	plasmid_AA531	CP024519.1	3260	CP024519.1 Klebsiella pneumoniae strain KSB1_10J plasmid unnamed4, complete sequence	100.0	3260	1.0	True
+Salmonella_SRR32528499	plasmid_AB042	NC_019085.1	3026	NC_019085.1 Escherichia coli plasmid pPAB19-3, complete sequence	100.0	3026	1.0	True
+Salmonella_SRR32528499	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528501	plasmid_AB042	NZ_CP045445.1	3066	NZ_CP045445.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain 9355 plasmid p2_9355, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528501	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528504	plasmid_AB042	NC_019085.1	3066	NC_019085.1 Escherichia coli plasmid pPAB19-3, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528504	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528506	plasmid_AB042	NZ_CP045445.1	3066	NZ_CP045445.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain 9355 plasmid p2_9355, complete sequence	100.0	3066	1.0	True
+Salmonella_SRR32528506	plasmid_AB241	NZ_CP012925.1	2173	NZ_CP012925.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 12-4374 plasmid p12-4374_2, complete sequence	100.0	2173	1.0	True
+Salmonella_SRR32528504	plasmid_AA859	NZ_CP080424.1	57915	NZ_CP080424.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 366.65 plasmid pSH-366.65, complete sequence	99.99647576620909	57829	1.0	True
+E_coli_SRR36707269	plasmid_AC249	NZ_AP028985.1	19199	NZ_AP028985.1 Edwardsiella anguillarum strain Ea1521 plasmid pEAM21, complete sequence	99.99470743267878	18306	1.0	True
+E_coli_SRR31865377	plasmid_AC663	NZ_CP127264.1	15344	NZ_CP127264.1 Escherichia coli strain TW10828 plasmid pTW10828_115.1k, complete sequence	99.98655305005214	15264	1.0	True
+E_coli_SRR31865377	plasmid_AB595	NZ_AP027701.1	6845	NZ_AP027701.1 Escherichia coli strain PSS-12 plasmid pPSS-12_4, complete sequence	99.98568677867055	6845	1.0	True
+K_pneumoniae_SRR31202976	plasmid_AA038	NZ_CP042935.2	40880	NZ_CP042935.2 Escherichia coli 042 plasmid p1-Ec-BERN-042, complete sequence	99.98532377690802	40576	1.0	True
+K_pneumoniae_SRR31202995	plasmid_AA038	NZ_CP042935.2	40880	NZ_CP042935.2 Escherichia coli 042 plasmid p1-Ec-BERN-042, complete sequence	99.98532377690802	40576	1.0	True
+K_pneumoniae_SRR31202997	plasmid_AA038	NZ_CP042935.2	40879	NZ_CP042935.2 Escherichia coli 042 plasmid p1-Ec-BERN-042, complete sequence	99.98532341789182	40575	1.0	True
+E_coli_SRR29213325	plasmid_AC509	NZ_CP127307.1	13317	NZ_CP127307.1 Escherichia coli strain C51 plasmid pC5106, complete sequence	99.98499887362019	6805	1.0	True
+E_coli_SRR29213326	plasmid_AC509	NZ_CP127307.1	13317	NZ_CP127307.1 Escherichia coli strain C51 plasmid pC5106, complete sequence	99.98499887362019	6805	1.0	True
+E_coli_SRR29213327	plasmid_AC509	NZ_CP127307.1	13317	NZ_CP127307.1 Escherichia coli strain C51 plasmid pC5106, complete sequence	99.98499887362019	6805	1.0	True
+E_coli_SRR29213331	plasmid_AC509	NZ_CP127307.1	13317	NZ_CP127307.1 Escherichia coli strain C51 plasmid pC5106, complete sequence	99.98499887362019	6805	1.0	True
+E_coli_SRR36707269	plasmid_AC511	NZ_CP147580.1	5280	NZ_CP147580.1 Escherichia coli strain GN05476 plasmid unnamed4, complete sequence	99.98131477272726	5280	1.0	True
+K_pneumoniae_SRR32003848	plasmid_AA129	NZ_CP103735.1	4313	NZ_CP103735.1 Klebsiella pneumoniae strain 913 plasmid pMB2930_4, complete sequence	99.97670113610016	4313	1.0	True
+E_coli_SRR31865339	plasmid_AA579	NZ_CP140629.1	4149	NZ_CP140629.1 Shigella sonnei strain ST152 plasmid pSO87_sm011, complete sequence	99.97636779946974	4149	1.0	True
+K_pneumoniae_SRR31202986	plasmid_novel_97f0582d9fb46b154af52685b42ba114	NZ_CP061765.1	4072	NZ_CP061765.1 Escherichia coli O19:H7 strain 730V1 plasmid unnamed1, complete sequence	99.975	4072	1.0	True
+Salmonella_SRR32528504	plasmid_AA163	NZ_CP053654.1	3576	NZ_CP053654.1 Escherichia coli strain CFS3313 plasmid pCFS3313-4, complete sequence	99.97163310961969	3449	1.0	True
+Salmonella_SRR32528485	plasmid_AA163	CP082581.1	3424	CP082581.1 Salmonella enterica subsp. enterica serovar Kentucky strain CVM N18S0935 plasmid pN18S0935-5, complete sequence	99.9708183411215	3424	1.0	True
+K_pneumoniae_SRR32003848	plasmid_AB055	NZ_CP091055.1	2722	NZ_CP091055.1 Klebsiella pneumoniae strain AHSWKP25 plasmid pSW25H03, complete sequence	99.96325569434238	2722	1.0	True
+Salmonella_SRR32528490	plasmid_AD465	NZ_CP091656.1	2537	NZ_CP091656.1 Escherichia coli strain KMi025 plasmid pKMi025_4, complete sequence	99.96068190776508	2537	1.0	True
+Salmonella_SRR32528480	plasmid_AD465	NZ_CP091656.1	2537	NZ_CP091656.1 Escherichia coli strain KMi025 plasmid pKMi025_4, complete sequence	99.96050216791485	2537	1.0	True
+E_coli_SRR36707355	plasmid_AE581	NZ_CP100694.1	10017	NZ_CP100694.1 Salmonella enterica subsp. enterica serovar London strain R18.1595 plasmid pR18.1595_113k, complete sequence	99.96013966257362	4745	1.0	True
+K_pneumoniae_SRR31202998	plasmid_AB050	CP056479.1	4744	CP056479.1 Enterobacter cloacae strain RHBSTW-00473 plasmid pRHBSTW-00473_6, complete sequence	99.95801602023609	4744	1.0	True
+Salmonella_ERR5466548	plasmid_AB461	NZ_CP043434.1	57971	NZ_CP043434.1 Salmonella enterica subsp. enterica serovar Enteritidis strain PT1 plasmid pPT1-1, complete sequence	99.95720025530005	57404	1.0	True
+E_coli_SRR29213331	plasmid_AA575	NZ_CP123594.1	4444	NZ_CP123594.1 Escherichia coli strain DJH_183sputum plasmid pDJH_Plas4, complete sequence	99.95512151215121	4311	1.0	True
+E_coli_SRR29213326	plasmid_AA575	NZ_CP123594.1	4444	NZ_CP123594.1 Escherichia coli strain DJH_183sputum plasmid pDJH_Plas4, complete sequence	99.9550708820882	4311	1.0	True
+E_coli_SRR29213327	plasmid_AA575	NZ_CP123594.1	4444	NZ_CP123594.1 Escherichia coli strain DJH_183sputum plasmid pDJH_Plas4, complete sequence	99.95488613861386	4311	1.0	True
+Salmonella_SRR32528480	plasmid_AB241	NZ_CP128264.1	2173	NZ_CP128264.1 Salmonella enterica subsp. enterica serovar Heidelberg isolate FT3-7B plasmid pColpVC, complete sequence	99.95439024390244	2173	1.0	True
+E_coli_SRR29213325	plasmid_AA575	NZ_CP032885.1	4311	NZ_CP032885.1 Escherichia coli strain SCEC020022 plasmid p6_020022, complete sequence	99.95374947807933	4311	1.0	True
+K_pneumoniae_ERR15165602	plasmid_AB236	OW959924.1	2030	OW959924.1 Klebsiella pneumoniae isolate 101 genome assembly, plasmid: P5	99.95117733990149	2030	1.0	True
+E_coli_SRR31865355	plasmid_AA142	NZ_CP142933.1	8016	NZ_CP142933.1 Escherichia coli strain B20123 plasmid pB20123_3, complete sequence	99.94998465568862	8016	1.0	True
+K_pneumoniae_ERR15165598	plasmid_AA110	OW968377.1	3970	OW968377.1 Klebsiella pneumoniae isolate 307 genome assembly, plasmid: P3	99.94980352644835	3944	1.0	True
+Salmonella_SRR32528473	plasmid_AA163	AP027796.1	1784	AP027796.1 Escherichia coli 2017.06.05CC plasmid p2017.06.05CC_6 DNA, complete sequence	99.94399999999999	1784	1.0	True
+Salmonella_SRR32528506	plasmid_AA163	NZ_AP027540.1	3449	NZ_AP027540.1 Escherichia coli strain LR-46 plasmid pLR-46_3, complete sequence	99.94217048419833	3449	1.0	True
+K_pneumoniae_SRR31202983	plasmid_AA517	CP050838.1	4939	CP050838.1 Klebsiella pneumoniae strain Bckp021 plasmid pBckp021-4, complete sequence	99.9393719376392	4931	1.0	True
+E_coli_SRR29213288	plasmid_AB685	NZ_CP056078.1	1629	NZ_CP056078.1 Escherichia coli strain MS1170 plasmid pMS1170_3, complete sequence	99.93889134438308	1629	1.0	True
+K_pneumoniae_ERR15165593	plasmid_AB187	NZ_AP023456.1	10902	NZ_AP023456.1 Klebsiella pneumoniae strain M941 plasmid pM941-b, complete sequence	99.93578939644102	8963	1.0	True
+Salmonella_SRR32528480	plasmid_AA859	NZ_CP060509.1	167302	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.92590712603555	163881	1.0	True
+Salmonella_SRR32528490	plasmid_AA859	NZ_CP060509.1	155983	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.9209818762301	152562	1.0	True
+E_coli_SRR29213328	plasmid_AC770	NZ_CP060749.1	15115	NZ_CP060749.1 Escherichia coli strain EC96 plasmid pEC96-153kb, complete sequence	99.9206004631161	11251	1.0	True
+Salmonella_SRR32528501	plasmid_AA859	NZ_CP060509.1	161042	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.91802375156792	159061	1.0	True
+Salmonella_SRR32528473	plasmid_AA859	NZ_CP060509.1	160382	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.91785751518249	158851	1.0	True
+Salmonella_SRR32528477	plasmid_AA859	NZ_CP060509.1	160382	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.91785751518249	158851	1.0	True
+Salmonella_SRR32528506	plasmid_AA859	NZ_CP060509.1	160382	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.91785751518249	158851	1.0	True
+Salmonella_SRR32528501	plasmid_AA163	NZ_CP053654.1	3614	NZ_CP053654.1 Escherichia coli strain CFS3313 plasmid pCFS3313-4, complete sequence	99.9169324847814	3487	1.0	True
+Salmonella_SRR32528487	plasmid_AA859	NZ_CP060509.1	147434	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.91594213003785	144091	1.0	True
+E_coli_SRR31865377	plasmid_AC662	NZ_CP127264.1	27094	NZ_CP127264.1 Escherichia coli strain TW10828 plasmid pTW10828_115.1k, complete sequence	99.91513172658152	26643	1.0	True
+K_pneumoniae_ERR15165590	plasmid_AB040	NZ_CP070188.1	2327	NZ_CP070188.1 Klebsiella pneumoniae strain FDAARGOS_1330 plasmid unnamed10	99.91401590030083	2326	1.0	True
+E_coli_SRR29213289	plasmid_AA163	NZ_CP037958.1	3450	NZ_CP037958.1 Salmonella enterica subsp. enterica serovar Goldcoast strain R18.0877 plasmid pR18.0877_3.3k, complete sequence	99.91345014492754	3450	1.0	True
+E_coli_SRR29213310	plasmid_AC509	NZ_CP086477.1	6724	NZ_CP086477.1 Escherichia coli strain Ec-050-T20-ESBL plasmid pEc-050-T20-ESBL_7, complete sequence	99.91124271267103	6724	1.0	True
+E_coli_SRR31865337	plasmid_AB054	NZ_CP016527.1	3123	NZ_CP016527.1 Salmonella enterica subsp. enterica serovar Heidelberg strain 09-036813-1A plasmid p09-036813-1A_3, complete sequence	99.90378194044189	3122	1.0	True
+K_pneumoniae_ERR15165593	plasmid_AB236	NZ_CP110166.1	2046	NZ_CP110166.1 Klebsiella pneumoniae strain YZ22CS089 plasmid unnamed6, complete sequence	99.90267497556206	2046	1.0	True
+K_pneumoniae_ERR15165599	plasmid_AA110	CP067662.1	3075	CP067662.1 Klebsiella pneumoniae strain ARLG-4408 plasmid pC4698_2, complete sequence	99.90264487804879	3006	1.0	True
+Salmonella_SRR32528485	plasmid_AA859	NC_021815.1	148948	NC_021815.1 Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921 plasmid unnamed, complete sequence	99.90208446571958	148808	1.0	True
+K_pneumoniae_ERR15165591	plasmid_AD488	NZ_CP147092.1	3311	NZ_CP147092.1 Escherichia coli strain KTa005 plasmid pKTa005_8, complete sequence	99.87918272425249	3310	1.0	True
+E_coli_SRR29213325	plasmid_AB238	NC_005002.1	1560	NC_005002.1 Salmonella enterica subsp. enterica serovar Enteritidis plasmid pB, complete sequence	99.8719641025641	1560	1.0	True
+E_coli_SRR29213326	plasmid_AB238	NC_005002.1	1560	NC_005002.1 Salmonella enterica subsp. enterica serovar Enteritidis plasmid pB, complete sequence	99.8719641025641	1560	1.0	True
+E_coli_SRR29213327	plasmid_AB238	NC_005002.1	1560	NC_005002.1 Salmonella enterica subsp. enterica serovar Enteritidis plasmid pB, complete sequence	99.8719641025641	1560	1.0	True
+E_coli_SRR29213331	plasmid_AB238	NC_005002.1	1560	NC_005002.1 Salmonella enterica subsp. enterica serovar Enteritidis plasmid pB, complete sequence	99.8719641025641	1560	1.0	True
+K_pneumoniae_ERR15165591	plasmid_AB040	NZ_CP056759.1	2203	NZ_CP056759.1 Enterobacter hormaechei strain RHBSTW-00198 plasmid pRHBSTW-00198_4, complete sequence	99.86417657739447	2202	1.0	True
+E_coli_SRR31865334	plasmid_AA143	NZ_CP127261.1	17346	NZ_CP127261.1 Escherichia coli strain TW10828 plasmid pTW10828_17.3k, complete sequence	99.86178940389715	5930	1.0	True
+E_coli_SRR29213325	plasmid_AB063	NZ_AP023211.1	2101	NZ_AP023211.1 Escherichia coli strain TUM18781 plasmid pMTY18781-6, complete sequence	99.8573788672061	2005	1.0	True
+E_coli_SRR29213331	plasmid_AB063	NZ_AP023211.1	2101	NZ_AP023211.1 Escherichia coli strain TUM18781 plasmid pMTY18781-6, complete sequence	99.85736792003807	2005	1.0	True
+E_coli_SRR29213327	plasmid_AB063	NZ_AP023211.1	2101	NZ_AP023211.1 Escherichia coli strain TUM18781 plasmid pMTY18781-6, complete sequence	99.85731889576392	2005	1.0	True
+E_coli_SRR36707355	plasmid_AB064	NZ_AP022496.1	2775	NZ_AP022496.1 Citrobacter portucalensis strain STN0717-36 plasmid pSTN0717-36-2, complete sequence	99.85606594594594	2745	1.0	True
+E_coli_SRR31865334	plasmid_AA155	NZ_AP025744.1	3413	NZ_AP025744.1 Escherichia sp. 10290 plasmid pla3, complete sequence	99.85341195429241	3410	1.0	True
+K_pneumoniae_ERR15165594	plasmid_AG340	NZ_AP022507.1	2408	NZ_AP022507.1 Enterobacter kobei strain STN0717-53 plasmid pSTN0717-53-9, complete sequence	99.83366237541529	2408	1.0	True
+K_pneumoniae_ERR15165590	plasmid_AA514	NZ_OW849159.1	1730	NZ_OW849159.1 Serratia marcescens isolate 0 plasmid P4, complete sequence	99.82640404624277	1730	1.0	True
+E_coli_SRR36707392	plasmid_AB685	NZ_CP029106.1	1673	NZ_CP029106.1 Escherichia coli strain AR437 plasmid unnamed4, complete sequence	99.8204004781829	1673	1.0	True
+E_coli_SRR36707306	plasmid_AA903	NZ_CP024259.1	5339	NZ_CP024259.1 Escherichia coli O25:H16 strain F5505-C1 plasmid unnamed2, complete sequence	99.8129408128863	5226	1.0	True
+E_coli_SRR29213310	plasmid_AA580	NZ_CP011432.1	5170	NZ_CP011432.1 Salmonella enterica subsp. enterica serovar Typhimurium strain YU39 isolate YUHS 05-78 plasmid pYU39_5.1, complete sequence	99.80704042553191	5170	1.0	True
+K_pneumoniae_ERR15165589	plasmid_AB236	NZ_CP017086.1	2027	NZ_CP017086.1 Proteus mirabilis strain T18 plasmid pT18, complete sequence	99.80260730143067	2017	1.0	True
+E_coli_SRR29213310	plasmid_AA159	NZ_CP138690.1	2883	NZ_CP138690.1 Klebsiella pneumoniae strain 1344 plasmid unnamed2, complete sequence	99.79224557752342	2879	1.0	True
+Salmonella_SRR32528487	plasmid_AA474	NZ_CP060509.1	58391	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.77879529379527	55093	1.0	True
+E_coli_SRR31865329	plasmid_AA335	NZ_AP014804.1	135819	NZ_AP014804.1 Escherichia coli O119:H6 strain EC404/03 plasmid pEC404/03-1, complete sequence	99.7533072103314	131518	1.0	True
+E_coli_SRR36707266	plasmid_AB595	NZ_CP022499.1	30467	NZ_CP022499.1 Salmonella enterica subsp. enterica serovar Manhattan strain SA20084699 plasmid unnamed2, complete sequence	99.75057317753635	8633	1.0	True
+E_coli_SRR31865331	plasmid_AA161	NZ_CP129276.1	6014	NZ_CP129276.1 Escherichia coli strain G12 plasmid pG12d, complete sequence	99.73408064516128	6013	1.0	True
+Salmonella_SRR32528480	plasmid_AB042	NZ_CP081522.1	3187	NZ_CP081522.1 Escherichia coli strain 20-MO00019 plasmid pQNR20-MO00019, complete sequence	99.71755255726389	3024	1.0	True
+Salmonella_SRR32528485	plasmid_AA474	NZ_CP014966.1	48499	NZ_CP014966.1 Salmonella enterica subsp. enterica serovar Typhimurium str. CDC 2010K-1587 plasmid pSTY1-2010K-1587, complete sequence	99.71551201055694	45724	1.0	True
+E_coli_SRR31865331	plasmid_AB595	NZ_MW115421.1	9046	NZ_MW115421.1 Citrobacter freundii strain CF_20.1 plasmid CF_20.1 MDR, complete sequence	99.71276387353527	9024	1.0	True
+E_coli_SRR36707307	plasmid_AA334	CP088544.1	65079	CP088544.1 Escherichia coli strain E16EC0537 plasmid pE16EC0537-2, complete sequence	99.69883584566449	62026	1.0	True
+E_coli_SRR31865331	plasmid_AC748	NZ_CP054163.1	2597	NZ_CP054163.1 Escherichia coli strain STO_Bone2 plasmid pBone2_4, complete sequence	99.69212938005391	2178	1.0	True
+E_coli_SRR31865329	plasmid_AG471	NC_025058.1	4483	NC_025058.1 Escherichia coli plasmid pEC22, complete sequence	99.6879230426054	4478	1.0	True
+E_coli_SRR31865332	plasmid_AA183	NZ_CP022913.1	25646	NZ_CP022913.1 Escherichia coli O6:H16 strain 2011EL-1370-2 plasmid unnamed1, complete sequence	99.68426304296966	25618	1.0	True
+E_coli_SRR36707392	plasmid_AA304	NZ_OP594535.1	17841	NZ_OP594535.1 Escherichia coli strain N2535 plasmid pOXA-484_IncF, complete sequence	99.67470550978085	17249	1.0	True
+Salmonella_SRR32528499	plasmid_AA668	NZ_CP067427.1	3674	NZ_CP067427.1 Escherichia coli O22:H8 strain 154 plasmid p3, complete sequence	99.67296842678279	3674	1.0	True
+Salmonella_SRR32528477	plasmid_AA668	NZ_CP067427.1	3590	NZ_CP067427.1 Escherichia coli O22:H8 strain 154 plasmid p3, complete sequence	99.66605013927577	3590	1.0	True
+E_coli_SRR31865377	plasmid_AA143	CP016039.1	5855	CP016039.1 Escherichia coli isolate Co6114 plasmid pC06114_5, complete sequence	99.65851579846284	5853	1.0	True
+E_coli_SRR36707269	plasmid_AA282	NZ_CP145691.1	112390	NZ_CP145691.1 Escherichia coli strain S1-KEN-04-A plasmid p1-S1-KEN-04-A, complete sequence	99.65401955690008	107337	1.0	True
+Salmonella_SRR32528485	plasmid_AD482	NZ_CP046421.1	1422	NZ_CP046421.1 Escherichia coli strain LZYWN_4 plasmid pS4-unknown3, complete sequence	99.64800000000001	1422	1.0	True
+Salmonella_SRR32528485	plasmid_AA668	NZ_CP148459.1	2544	NZ_CP148459.1 Escherichia coli strain Z1323CEC0009 plasmid pZ1323CEC0009-7, complete sequence	99.64637893081762	2543	1.0	True
+Salmonella_SRR32528490	plasmid_AD482	NZ_CP049849.1	1049	NZ_CP049849.1 Escherichia coli strain UPEC-245U/190328 plasmid pEcoUTI1c, complete sequence	99.61859485224024	1045	1.0	True
+E_coli_SRR29213334	plasmid_AA176	NZ_CP126936.1	98902	NZ_CP126936.1 Escherichia coli O78:H4 strain APEC E19057 plasmid pEND_Eco19057-2, complete sequence	99.61274431255183	96499	1.0	True
+E_coli_SRR36707392	plasmid_AA734	NZ_OP594535.1	32124	NZ_OP594535.1 Escherichia coli strain N2535 plasmid pOXA-484_IncF, complete sequence	99.60467812227617	30866	1.0	True
+E_coli_SRR31865362	plasmid_AA662	NZ_CP063704.1	4968	NZ_CP063704.1 Salmonella enterica subsp. enterica serovar Enteritidis strain D7795 plasmid pRGI00316, complete sequence	99.59726489533011	4967	1.0	True
+K_pneumoniae_ERR15165598	plasmid_AA367	NZ_CP097889.1	1714	NZ_CP097889.1 Staphylococcus arlettae strain SA283 plasmid pSA283-2, complete sequence	99.59156709451575	1714	1.0	True
+E_coli_SRR29213288	plasmid_AA178	NZ_CP045207.1	189223	NZ_CP045207.1 Escherichia coli strain DE17 plasmid unnamed1, complete sequence	99.56766162147306	176704	1.0	True
+K_pneumoniae_ERR15165602	plasmid_AB060	NZ_OP242317.1	5035	NZ_OP242317.1 Escherichia coli strain LA207 plasmid pLAO90, complete sequence	99.5629283018868	5032	1.0	True
+Salmonella_SRR32528490	plasmid_AA474	NZ_CP060509.1	58226	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.55842073987566	53816	1.0	True
+K_pneumoniae_ERR15165592	plasmid_AB060	NZ_OP242317.1	4898	NZ_OP242317.1 Escherichia coli strain LA207 plasmid pLAO90, complete sequence	99.55043364638628	4895	1.0	True
+E_coli_SRR31865377	plasmid_AC033	NZ_LR882979.1	97383	NZ_LR882979.1 Escherichia coli isolate L3_CS7_E2980 plasmid 2, complete sequence	99.54417946664202	95010	1.0	True
+K_pneumoniae_ERR15165599	plasmid_AB060	NZ_OP242317.1	4870	NZ_OP242317.1 Escherichia coli strain LA207 plasmid pLAO90, complete sequence	99.52731930184805	4868	1.0	True
+E_coli_SRR29213331	plasmid_AA176	NZ_CP126949.1	129904	NZ_CP126949.1 Escherichia coli O78:H4 strain APEC E14033 plasmid pEND_Eco 14033-1, complete sequence	99.50379071468161	121623	1.0	True
+E_coli_SRR29213325	plasmid_AA176	NZ_CP126949.1	132379	NZ_CP126949.1 Escherichia coli O78:H4 strain APEC E14033 plasmid pEND_Eco 14033-1, complete sequence	99.4938430717863	114318	1.0	True
+Salmonella_SRR32528490	plasmid_AA668	NZ_CP067427.1	3674	NZ_CP067427.1 Escherichia coli O22:H8 strain 154 plasmid p3, complete sequence	99.48304790419162	3674	1.0	True
+E_coli_SRR31865355	plasmid_AA297	NZ_LS992181.1	34160	NZ_LS992181.1 Escherichia coli isolate Escherichia coli str. TO124 plasmid 2, complete sequence	99.47897289227166	33760	1.0	True
+K_pneumoniae_ERR15165589	plasmid_AC527	NZ_CP083041.1	3023	NZ_CP083041.1 Klebsiella pneumoniae strain 4906.28 plasmid p5-4906.28, complete sequence	99.47099801521667	2998	1.0	True
+Salmonella_SRR32528480	plasmid_AC027	NZ_CP060509.1	47061	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.45421684622087	42651	1.0	True
+K_pneumoniae_SRR31202976	plasmid_AC540	NZ_CP090080.1	4347	NZ_CP090080.1 Klebsiella michiganensis strain KM41 plasmid pKO41-SIM, complete sequence	99.44783850931677	2980	1.0	True
+E_coli_SRR31865334	plasmid_AC033	NZ_CP023350.1	109240	NZ_CP023350.1 Escherichia coli strain ETEC-2264 plasmid unnamed1, complete sequence	99.42968747711461	105740	1.0	True
+E_coli_SRR31865329	plasmid_AB443	CP091390.1	7461	CP091390.1 Escherichia coli strain 623213 plasmid p623213_3, complete sequence	99.39670794799625	3822	1.0	True
+K_pneumoniae_ERR13744150	plasmid_AA277	OW848817.1	180647	OW848817.1 Klebsiella pneumoniae isolate 405 genome assembly, plasmid: P1	99.39331242146285	134207	1.0	True
+K_pneumoniae_ERR15165589	plasmid_AA110	OW968377.1	3949	OW968377.1 Klebsiella pneumoniae isolate 307 genome assembly, plasmid: P3	99.39266447201823	3949	1.0	True
+K_pneumoniae_SRR32003848	plasmid_AA274	NZ_CP032209.1	92243	NZ_CP032209.1 Klebsiella pneumoniae strain AR_0109 plasmid unnamed3, complete sequence	99.36691116941122	86551	1.0	True
+K_pneumoniae_ERR15165598	plasmid_novel_94346f5cb692523ab064ca92f2a01784	CP019599.1	1254	CP019599.1 Staphylococcus cohnii strain SNUDS-2 plasmid pSC-SNUDS-2-2, complete sequence	99.36215151515152	1254	1.0	True
+K_pneumoniae_SRR32003848	plasmid_AB193	CP067686.1	26887	CP067686.1 Klebsiella pneumoniae strain ARLG-4260 plasmid pC4691_1, complete sequence	99.34158139621378	25626	1.0	True
+K_pneumoniae_ERR13744124	plasmid_AA277	OW848817.1	183772	OW848817.1 Klebsiella pneumoniae isolate 405 genome assembly, plasmid: P1	99.32631721372135	140714	1.0	True
+K_pneumoniae_ERR15165589	plasmid_AA439	CP133156.1	25059	CP133156.1 Klebsiella variicola strain T2 plasmid p_AA439, complete sequence	99.28583658565785	24414	1.0	True
+K_pneumoniae_ERR15165593	plasmid_AA439	CP133156.1	25059	CP133156.1 Klebsiella variicola strain T2 plasmid p_AA439, complete sequence	99.28583658565785	24414	1.0	True
+Salmonella_SRR32528487	plasmid_AA668	NZ_CP148459.1	1380	NZ_CP148459.1 Escherichia coli strain Z1323CEC0009 plasmid pZ1323CEC0009-7, complete sequence	99.27565217391304	1380	1.0	True
+E_coli_SRR29213329	plasmid_AA174	CP073292.1	19840	CP073292.1 Klebsiella pneumoniae strain 135077 plasmid pVir_135077, complete sequence	99.27468155241935	18206	1.0	True
+E_coli_SRR29213310	plasmid_AA372	NZ_OX442408.1	58577	NZ_OX442408.1 Escherichia coli isolate pure strain plasmid 2, complete sequence	99.27292027587619	58135	1.0	True
+K_pneumoniae_SRR31202995	plasmid_AA552	NZ_ON111450.1	59331	NZ_ON111450.1 Klebsiella pneumoniae strain C6707 plasmid unnamed2, complete sequence	99.26692432286663	46321	1.0	True
+K_pneumoniae_ERR15165592	plasmid_AA439	CP133156.1	22899	CP133156.1 Klebsiella variicola strain T2 plasmid p_AA439, complete sequence	99.24026110310494	22237	1.0	True
+K_pneumoniae_SRR31202976	plasmid_AA552	NZ_ON111450.1	56779	NZ_ON111450.1 Klebsiella pneumoniae strain C6707 plasmid unnamed2, complete sequence	99.23398148963526	45927	1.0	True
+K_pneumoniae_SRR31202997	plasmid_AA552	NZ_ON111450.1	56779	NZ_ON111450.1 Klebsiella pneumoniae strain C6707 plasmid unnamed2, complete sequence	99.23398148963526	47082	1.0	True
+K_pneumoniae_ERR13744112	plasmid_AA551	NZ_CP104860.1	43701	NZ_CP104860.1 Salmonella sp. 3C plasmid pTL-1, complete sequence	99.22889441889201	43482	1.0	True
+E_coli_SRR31865336	plasmid_AC042	CP124997.1	27983	CP124997.1 Escherichia coli strain KSE-C11 plasmid pKSE-C11_2, complete sequence	99.2065551227531	27021	1.0	True
+K_pneumoniae_ERR13744107	plasmid_AD443	CP143971.1	113182	CP143971.1 Klebsiella pneumoniae strain 2023CB-00572 plasmid unnamed1, complete sequence	99.19328003569473	102922	1.0	True
+E_coli_SRR31865331	plasmid_AA283	NC_011754.1	120235	NC_011754.1 Escherichia coli ED1a plasmid pECOED, complete sequence	99.17177272840688	116054	1.0	True
+K_pneumoniae_ERR15165593	plasmid_AA553	NZ_CP065475.1	6604	NZ_CP065475.1 Klebsiella michiganensis strain 7525 plasmid pKOX7525_1, complete sequence	99.15201317383405	5885	1.0	True
+K_pneumoniae_ERR13744140	plasmid_AD443	CP067565.1	122573	CP067565.1 Klebsiella pneumoniae strain ARLG-10778 plasmid pC684_2, complete sequence	99.12791065732257	101985	1.0	True
+Salmonella_ERR5466558	plasmid_AA887	NZ_CP047672.1	58254	NZ_CP047672.1 Edwardsiella piscicida strain CK41 plasmid pCK41, complete sequence	99.11584323823257	55823	1.0	True
+E_coli_SRR29213328	plasmid_AA176	NZ_CP097727.1	177163	NZ_CP097727.1 Escherichia coli strain MS1050 plasmid pMS1050-1, complete sequence	99.0845045692385	169085	1.0	True
+E_coli_SRR31865332	plasmid_AE682	CP100034.1	5206	CP100034.1 Escherichia coli strain EC204A1 plasmid p204A1-5K2, complete sequence	99.0778605455244	5203	1.0	True
+Salmonella_SRR32528504	plasmid_AA668	NZ_CP094335.1	3228	NZ_CP094335.1 Salmonella enterica subsp. enterica strain 3018683606 plasmid pST3606-3, complete sequence	99.07099999999998	3228	1.0	True
+E_coli_SRR36707274	plasmid_AC315	NZ_CP132612.1	65096	NZ_CP132612.1 Klebsiella pneumoniae strain 352310 plasmid p3, complete sequence	99.04440412621359	56025	1.0	True
+E_coli_SRR36707274	plasmid_AB056	NZ_CP051375.1	3757	NZ_CP051375.1 Salmonella enterica subsp. enterica serovar Newport strain CVM 24374 plasmid p20723-3, complete sequence	99.04149321266969	3745	1.0	True
+K_pneumoniae_SRR31202914	plasmid_AA277	CP024500.1	148929	CP024500.1 Klebsiella pneumoniae strain KSB1_4E plasmid unnamed1, complete sequence	99.02914403507711	147282	1.0	True
+E_coli_SRR31865377	plasmid_AA476	NZ_CP127264.1	9101	NZ_CP127264.1 Escherichia coli strain TW10828 plasmid pTW10828_115.1k, complete sequence	99.00040391165805	8108	1.0	True
+K_pneumoniae_ERR13744111	plasmid_AA276	NZ_CP056302.1	215532	NZ_CP056302.1 Klebsiella pneumoniae strain RHBSTW-00843 plasmid pRHBSTW-00843_2, complete sequence	98.84796974463188	187414	1.0	False
+Salmonella_SRR32528473	plasmid_AC026	LC567073.1	30550	LC567073.1 Escherichia coli N493 plasmid pHU493 DNA, complete sequence	98.84453031096564	29962	1.0	False
+Salmonella_SRR32528477	plasmid_AC026	LC567073.1	30550	LC567073.1 Escherichia coli N493 plasmid pHU493 DNA, complete sequence	98.84453031096564	29962	1.0	False
+Salmonella_SRR32528501	plasmid_AC026	LC567073.1	30550	LC567073.1 Escherichia coli N493 plasmid pHU493 DNA, complete sequence	98.84453031096564	29962	1.0	False
+Salmonella_SRR32528506	plasmid_AC026	LC567073.1	30550	LC567073.1 Escherichia coli N493 plasmid pHU493 DNA, complete sequence	98.84453031096564	29962	1.0	False
+Salmonella_SRR32528504	plasmid_AC025	NZ_CP134369.1	15166	NZ_CP134369.1 Escherichia coli strain TUM12368 plasmid pMTY12368_IncI1-I, complete sequence	98.83296980087036	14562	1.0	False
+E_coli_SRR36707271	plasmid_AC315	CP044008.1	60984	CP044008.1 Salmonella enterica subsp. enterica serovar Typhi strain 2018K-0756 plasmid p2018K-0756, complete sequence	98.82092297979797	54321	1.0	False
+Salmonella_SRR32528477	plasmid_AA163	NZ_CP127219.1	4670	NZ_CP127219.1 Salmonella enterica subsp. enterica serovar Kentucky strain Sal-FJ2064 plasmid unnamed2, complete sequence	98.800473875803	2337	1.0	False
+E_coli_SRR36707306	plasmid_AC315	CP044008.1	64236	CP044008.1 Salmonella enterica subsp. enterica serovar Typhi strain 2018K-0756 plasmid p2018K-0756, complete sequence	98.79976141104676	57053	1.0	False
+E_coli_SRR36707267	plasmid_AA337	NZ_CP015160.1	189278	NZ_CP015160.1 Escherichia coli strain Eco889 plasmid pECO-fce, complete sequence	98.7366431597967	134201	1.0	False
+E_coli_SRR29213328	plasmid_AA372	NZ_OR095748.1	79348	NZ_OR095748.1 Escherichia coli isolate R10-EL1 plasmid pR1041-el-84k, complete sequence	98.64384102938952	63287	1.0	False
+K_pneumoniae_ERR15165593	plasmid_AC527	CP101358.1	1352	CP101358.1 Salmonella enterica strain IndS104 plasmid pIndS104_4, complete sequence	98.595	1352	1.0	False
+K_pneumoniae_SRR31202998	plasmid_AD548	NZ_CP102502.1	18182	NZ_CP102502.1 Citrobacter youngae strain CF10 plasmid pCF10-NDM, complete sequence	98.59170041799582	17509	1.0	False
+K_pneumoniae_SRR31202985	plasmid_AA402	NZ_CP055062.1	210445	NZ_CP055062.1 Klebsiella pneumoniae strain SWHE3 plasmid unnamed1, complete sequence	98.52686033405402	206208	1.0	False
+E_coli_SRR31865336	plasmid_AA144	NZ_CP122759.1	4698	NZ_CP122759.1 Escherichia coli strain ETEC1739 plasmid unnamed1, complete sequence	98.50995359727544	4687	1.0	False
+E_coli_SRR31865377	plasmid_AB279	NZ_CP127264.1	28390	NZ_CP127264.1 Escherichia coli strain TW10828 plasmid pTW10828_115.1k, complete sequence	98.47863328636845	26260	1.0	False
+E_coli_SRR36707266	plasmid_AA336	CP077380.1	67559	CP077380.1 Escherichia coli strain FDAARGOS 1387 plasmid unnamed1, complete sequence	98.41034645273021	64281	1.0	False
+K_pneumoniae_ERR15165598	plasmid_AB060	NZ_OP242317.1	1031	NZ_OP242317.1 Escherichia coli strain LA207 plasmid pLAO90, complete sequence	98.351	1028	1.0	False
+K_pneumoniae_SRR32003848	plasmid_AB531	OW968321.1	52114	OW968321.1 Klebsiella pneumoniae isolate 15 genome assembly, plasmid: P3	98.3363605748935	51182	1.0	False
+E_coli_SRR36707355	plasmid_AA998	CP082487.1	185424	CP082487.1 Salmonella enterica subsp. enterica serovar Muenster strain FSIS1605743 plasmid pF18S001-1, complete sequence	98.30102197126585	183267	1.0	False
+K_pneumoniae_ERR15165602	plasmid_AB187	NZ_CP018819.1	52933	NZ_CP018819.1 Klebsiella pneumoniae strain AR_0049 plasmid unitig_3, complete sequence	98.28267243496497	42098	1.0	False
+E_coli_SRR31865332	plasmid_AB280	NZ_CP017848.1	131146	NZ_CP017848.1 Escherichia coli strain FMU073332 plasmid pEcoFMU07332d	98.25538277949765	127961	1.0	False
+E_coli_SRR31865339	plasmid_AA337	NZ_CP095511.1	139378	NZ_CP095511.1 Escherichia coli strain GN02270 plasmid p2270-1	98.14607491139203	131056	1.0	False
+K_pneumoniae_ERR15165602	plasmid_AA110	NZ_CP091816.1	7187	NZ_CP091816.1 Klebsiella pneumoniae strain 10MC160002271 plasmid pKP_FQ61_4, complete sequence	98.07990134965911	3125	1.0	False
+E_coli_SRR31865336	plasmid_AB275	NZ_CP024265.1	174282	NZ_CP024265.1 Escherichia coli O169:H41 strain F6326-C1 plasmid unnamed2, complete sequence	98.07839094685625	122553	1.0	False
+K_pneumoniae_ERR15165589	plasmid_AB187	NZ_CP006662.2	51458	NZ_CP006662.2 Klebsiella pneumoniae strain ATCC BAA-2146 plasmid pHg, complete sequence	98.0509130164406	47019	1.0	False
+K_pneumoniae_ERR15165589	plasmid_AA553	NZ_CP065475.1	7760	NZ_CP065475.1 Klebsiella michiganensis strain 7525 plasmid pKOX7525_1, complete sequence	98.00236494845362	5996	1.0	False
+K_pneumoniae_ERR15165591	plasmid_novel_09c7b316860c65a6836e67985006a46d	NZ_AP022466.1	24875	NZ_AP022466.1 Enterobacter roggenkampii strain STW0522-66 plasmid pSTW0522-66-1, complete sequence	97.8615550954774	24111	1.0	False
+K_pneumoniae_ERR13744112	plasmid_AC315	NZ_MW077912.1	67098	NZ_MW077912.1 Escherichia coli strain PO125 plasmid pPO125, complete sequence	97.83593560165727	62075	1.0	False
+K_pneumoniae_ERR13744109	plasmid_AC315	NZ_MW077912.1	67092	NZ_MW077912.1 Escherichia coli strain PO125 plasmid pPO125, complete sequence	97.83578122577953	62075	1.0	False
+E_coli_SRR31865334	plasmid_AB279	NZ_CP023352.1	23090	NZ_CP023352.1 Escherichia coli strain ETEC-2264 plasmid unnamed3, complete sequence	97.8085156344738	17371	1.0	False
+K_pneumoniae_ERR13744140	plasmid_AA050	CP110584.1	91653	CP110584.1 Klebsiella pneumoniae strain INF319 plasmid pINF319.3, complete sequence	97.80603898399399	69871	1.0	False
+E_coli_SRR36707274	plasmid_AF098	NZ_CP117004.1	17228	NZ_CP117004.1 Escherichia coli strain MLI108K3 plasmid p89_MLI108-3, complete sequence	97.80593829811934	16644	1.0	False
+E_coli_SRR36707306	plasmid_AF098	NZ_CP117004.1	17228	NZ_CP117004.1 Escherichia coli strain MLI108K3 plasmid p89_MLI108-3, complete sequence	97.80593829811934	16644	1.0	False
+K_pneumoniae_ERR13744107	plasmid_AA050	CP110584.1	91652	CP110584.1 Klebsiella pneumoniae strain INF319 plasmid pINF319.3, complete sequence	97.80363105005891	69870	1.0	False
+K_pneumoniae_SRR31202983	plasmid_AA814	NZ_CP034130.1	195644	NZ_CP034130.1 Klebsiella quasipneumoniae strain G4584 plasmid pG4584_218.9Kb, complete sequence	97.77041771789577	190881	1.0	False
+E_coli_SRR29213288	plasmid_AB241	CP099001.1	3546	CP099001.1 Escherichia coli strain RHB46-C05 plasmid unnamed5, complete sequence	97.743820642978	3542	1.0	False
+E_coli_SRR31865362	plasmid_AA336	NZ_CP023351.1	36222	NZ_CP023351.1 Escherichia coli strain ETEC-2264 plasmid unnamed2, complete sequence	97.64769626194025	31914	1.0	False
+K_pneumoniae_ERR15165593	plasmid_AA110	NZ_CP091816.1	7535	NZ_CP091816.1 Klebsiella pneumoniae strain 10MC160002271 plasmid pKP_FQ61_4, complete sequence	97.51831692103518	5006	1.0	False
+K_pneumoniae_SRR31202986	plasmid_AA815	NZ_CP089401.1	172931	NZ_CP089401.1 Klebsiella oxytoca strain Kox26 plasmid pKOX26_2, complete sequence	97.51636906627499	160510	1.0	False
+E_coli_SRR36707392	plasmid_AD167	NZ_CP048334.1	10909	NZ_CP048334.1 Escherichia coli strain 10 plasmid p010_D, complete sequence	97.50669566413055	9104	1.0	False
+K_pneumoniae_ERR15165595	plasmid_AA110	NZ_CP091816.1	9247	NZ_CP091816.1 Klebsiella pneumoniae strain 10MC160002271 plasmid pKP_FQ61_4, complete sequence	97.45873850978697	4077	1.0	False
+E_coli_SRR31865359	plasmid_AG799	NZ_CP051335.1	3338	NZ_CP051335.1 Salmonella enterica subsp. enterica serovar Worthington strain CVM 33836 plasmid p33836-2, complete sequence	97.4536147393649	3310	1.0	False
+K_pneumoniae_ERR15165592	plasmid_AA110	NZ_CP091816.1	9311	NZ_CP091816.1 Klebsiella pneumoniae strain 10MC160002271 plasmid pKP_FQ61_4, complete sequence	97.40064794329288	4066	1.0	False
+Salmonella_SRR32528490	plasmid_AB042	NZ_CP156942.1	9294	NZ_CP156942.1 Enterobacter hormaechei strain 2024CK-00479 plasmid unnamed3, complete sequence	97.37442027114267	5240	1.0	False
+Salmonella_SRR32528501	plasmid_AA668	CP134908.1	1403	CP134908.1 Escherichia coli strain 3320 plasmid pMB3134_3, complete sequence	97.292	1396	1.0	False
+K_pneumoniae_ERR13744103	plasmid_AA402	NZ_CP073907.1	301020	NZ_CP073907.1 Klebsiella pneumoniae strain HK31 plasmid pHK31_1, complete sequence	97.09158535977676	202886	1.0	False
+K_pneumoniae_SRR32003848	plasmid_AC434	NZ_AP021931.1	18005	NZ_AP021931.1 Klebsiella pneumoniae strain WP2-W18-ESBL-06 plasmid pWP2-W18-ESBL-06_2, complete sequence	97.01768336573173	17086	1.0	False
+K_pneumoniae_SRR32003848	plasmid_AD548	NZ_CP018884.1	17951	NZ_CP018884.1 Klebsiella pneumoniae subsp. pneumoniae strain BR7 plasmid unnamed1, complete sequence	96.85290518634059	15052	1.0	False
+K_pneumoniae_ERR15165591	plasmid_AA514	NZ_CP133866.1	9967	NZ_CP133866.1 Enterobacter cloacae complex sp. EB5 plasmid unnamed3, complete sequence	96.80906752282533	6437	1.0	False
+E_coli_SRR31865334	plasmid_novel_c9ebb17aa9f46c52e1f237bb43be62c2	NZ_CP090162.1	8856	NZ_CP090162.1 Shigella flexneri 2a strain 18787_5_65 plasmid pKSR100, complete sequence	96.68047199638663	6408	1.0	False
+E_coli_SRR31865334	plasmid_AA579	NZ_CP126181.1	4163	NZ_CP126181.1 Salmonella enterica subsp. enterica serovar 1,4,12:i:- strain BL661 plasmid unnamed2, complete sequence	96.66140667787653	4151	1.0	False
+Salmonella_SRR32528490	plasmid_novel_4bcef3daa8d3d8a4aeed4d4f89e17d87	CP076295.1	4602	CP076295.1 Escherichia coli strain Y18J plasmid unnamed2, complete sequence	96.654	3788	1.0	False
+K_pneumoniae_SRR32003848	plasmid_AA405	NZ_CP146994.1	187341	NZ_CP146994.1 Klebsiella pneumoniae strain NXQY01 plasmid unnamed1, complete sequence	96.64670114390336	185239	1.0	False
+K_pneumoniae_SRR31202983	plasmid_AC899	OW848887.1	66117	OW848887.1 Klebsiella pneumoniae isolate 392 genome assembly, plasmid: P1	96.60606058956093	65801	1.0	False
+K_pneumoniae_ERR15165591	plasmid_AA110	NZ_CP091816.1	5286	NZ_CP091816.1 Klebsiella pneumoniae strain 10MC160002271 plasmid pKP_FQ61_4, complete sequence	96.235360764283	3071	1.0	False
+K_pneumoniae_ERR13744132	plasmid_AA405	NZ_CP075559.1	308227	NZ_CP075559.1 Klebsiella pneumoniae strain RGF99-1 plasmid pRGF99-1-tmexCD	95.67491935164666	243126	1.0	False
+E_coli_SRR31865353	plasmid_AA336	NZ_LR882998.1	38142	NZ_LR882998.1 Escherichia coli isolate L3_E36_ETEC plasmid 2, complete sequence	95.19165458025275	37753	1.0	False
+E_coli_SRR31865355	plasmid_novel_1060fa57db41b68059002fd8dd1a4caa	NZ_LR882998.1	11802	NZ_LR882998.1 Escherichia coli isolate L3_E36_ETEC plasmid 2, complete sequence	95.18737815624469	7545	1.0	False
+E_coli_SRR29213326	plasmid_AA160	CP025878.1	6500	CP025878.1 Escherichia coli strain 503458 plasmid p503458_84, complete sequence	95.01524815384616	5462	1.0	False
+E_coli_SRR29213327	plasmid_AA160	CP025878.1	6500	CP025878.1 Escherichia coli strain 503458 plasmid p503458_84, complete sequence	95.01524815384616	5462	1.0	False
+K_pneumoniae_ERR15165592	plasmid_AC527	NZ_CP138396.1	4728	NZ_CP138396.1 Escherichia coli strain 101EVA plasmid p101EVA-3, complete sequence	94.71233523688663	4065	1.0	False
+K_pneumoniae_SRR31202983	plasmid_AA130	NZ_OU342902.1	2375	NZ_OU342902.1 Escherichia coli isolate IN08 plasmid 2, complete sequence	93.60025263157895	2365	1.0	False
+E_coli_SRR36707266	plasmid_novel_0367bd1570a30727c30513b6071afb8f	NZ_CP122493.1	6511	NZ_CP122493.1 Escherichia coli strain a15 plasmid unnamed1	93.30362571033635	2831	1.0	False
+K_pneumoniae_ERR15165597	plasmid_AG340	NZ_KM107844.1	2413	NZ_KM107844.1 Escherichia coli strain G5 plasmid pSYM8, complete sequence	92.54059428097804	2405	1.0	False
+Salmonella_SRR32528485	plasmid_novel_84902814c52c91f91e6bbf7d7b66289b	NZ_CP083501.1	3464	NZ_CP083501.1 Escherichia coli strain elppa6 plasmid unnamed4, complete sequence	89.26103926096998	3280	1.0	False
+K_pneumoniae_ERR15165598	plasmid_novel_b7b4a178c8cd005828d964ba7f154a27	NZ_CP042047.1	4560	NZ_CP042047.1 Staphylococcus aureus strain B2-7A plasmid pSALNBL75, complete sequence	88.31118771929825	3507	1.0	False
+E_coli_SRR31865359	plasmid_AF243	NZ_CP074179.1	1404	NZ_CP074179.1 Enterobacter asburiae strain JBIWA002 plasmid pJBIWA002_1, complete sequence	80.769	1228	1.0	False
+K_pneumoniae_ERR15165600	plasmid_AB060	NZ_CP055044.1	2008	NZ_CP055044.1 Shigella flexneri strain SWHEFF_59 plasmid unnamed3, complete sequence	100.0	2009	0.9995022399203584	True
+K_pneumoniae_ERR13744119	plasmid_AB047	NZ_CP025945.2	7995	NZ_CP025945.2 Escherichia coli strain SCEC020023 plasmid p1_020023, complete sequence	93.10849781113197	8043	0.9940320775829914	False
+E_coli_SRR36707307	plasmid_AC512	CP088893.1	14035	CP088893.1 Escherichia coli strain D16EC0527 plasmid pD16EC0527-1, complete sequence	99.84352340577126	14139	0.9926444585897164	True
+E_coli_SRR31865353	plasmid_AE930	NZ_OZ042071.1	34573	NZ_OZ042071.1 Escherichia coli isolate 30859_5#40 plasmid 3, complete sequence	98.35087744771931	34896	0.9907439248051353	False
+E_coli_SRR36707266	plasmid_novel_13dde1ab45332f72751e44d82f16303b	NZ_CP010239.1	16793	NZ_CP010239.1 Escherichia coli strain S50 plasmid A, complete sequence	98.77324307747276	16981	0.9889288027795772	False
+K_pneumoniae_ERR15165591	plasmid_AD690	CP046032.1	4338	CP046032.1 Salmonella sp. HNK130 plasmid pTHNK130-2, complete sequence	99.977	4390	0.9881548974943052	True
+E_coli_SRR29213328	plasmid_AA474	NZ_OW848982.1	88127	NZ_OW848982.1 Escherichia coli isolate 23 plasmid P2, complete sequence	99.68791955927242	89505	0.9846042120551924	True
+K_pneumoniae_SRR31202998	plasmid_novel_04abfbc5df6d33208c87208d21a0c6a8	NZ_CP082800.1	64904	NZ_CP082800.1 Klebsiella pneumoniae strain SCAID TST1-2021 (15/226) plasmid unnamed1, complete sequence	96.6503962775792	65950	0.984139499620925	False
+Salmonella_ERR5466511	plasmid_AA887	NZ_CP042902.1	57518	NZ_CP042902.1 Escherichia coli strain CFSAN061762 plasmid pCFSAN061762, complete sequence	98.50822622483396	59023	0.9745014655303864	False
+K_pneumoniae_ERR13744112	plasmid_AA033	NZ_CP129220.1	88271	NZ_CP129220.1 Klebsiella pneumoniae subsp. pneumoniae strain Kp3412_LBHALD plasmid p_Kp3412_LBHALD, complete sequence	96.24438776041961	91413	0.9656285211075011	False
+E_coli_SRR36707266	plasmid_AA282	NZ_AP022813.1	70794	NZ_AP022813.1 Escherichia coli strain JE86-ST02 plasmid JE86-ST02_p2, complete sequence	98.24288754696725	73641	0.9613394712184788	False
+E_coli_SRR36707274	plasmid_AA109	NZ_CP099253.1	2123	NZ_CP099253.1 Klebsiella aerogenes strain RHB11-E1-C08 plasmid unnamed1, complete sequence	98.91671219971738	2215	0.9584650112866817	False
+K_pneumoniae_ERR15165602	plasmid_AA458	NZ_CP129820.1	113317	NZ_CP129820.1 Klebsiella pneumoniae strain 2020N08-172 plasmid p2020N08-172-154k, complete sequence	99.53657357678019	119109	0.9513722724563215	True
+K_pneumoniae_ERR13744119	plasmid_AF031	NZ_CP057316.1	104929	NZ_CP057316.1 Klebsiella pneumoniae strain RHB30-C05 plasmid pRHB30-C05_4, complete sequence	97.82410103022043	110475	0.9497985969676397	False
+K_pneumoniae_ERR13744107	plasmid_AC125	NZ_CP064210.1	104883	NZ_CP064210.1 Klebsiella pneumoniae strain JX-CR-hvKP-11 plasmid pJX11-2, complete sequence	98.1006166585624	110772	0.946836745748023	False
+Salmonella_ERR15983674	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983675	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983678	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983679	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983680	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983681	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983682	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983690	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983695	plasmid_AC082	NZ_CP029955.1	16353	NZ_CP029955.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_202186 plasmid pHCM1, complete sequence	99.97553525347031	17320	0.9441685912240185	True
+Salmonella_ERR15983683	plasmid_AC082	NZ_CP029957.1	16345	NZ_CP029957.1 Salmonella enterica subsp. enterica serovar Typhi strain 311189_201186 plasmid pHCM1, complete sequence	99.96332456408688	17316	0.9439246939246939	True
+E_coli_SRR29213334	plasmid_AA327	NZ_OP378626.1	81545	NZ_OP378626.1 Escherichia coli strain EC00688 plasmid pEC00688_3, complete sequence	96.95372080446379	87170	0.9354709188941149	False
+K_pneumoniae_ERR15165599	plasmid_AA277	NZ_CP073628.1	170989	NZ_CP073628.1 Klebsiella pneumoniae isolate KP_NORM_BLD_2012_85054 plasmid unnamed1, complete sequence	99.36254811128201	183319	0.9327401960516913	True
+K_pneumoniae_SRR31202995	plasmid_AA275	NZ_CP095151.1	193646	NZ_CP095151.1 Klebsiella pneumoniae strain Iso00073 plasmid pIso00073_01, complete sequence	99.09946101649402	207963	0.9311560229463895	True
+K_pneumoniae_SRR31202997	plasmid_AA275	NZ_CP095141.1	193149	NZ_CP095141.1 Klebsiella pneumoniae strain Iso00199 plasmid pIso00199_01, complete sequence	99.0751547561727	207466	0.9309911021564979	True
+E_coli_SRR31865359	plasmid_AD448	NZ_CP134663.1	33817	NZ_CP134663.1 Escherichia coli strain 64A:C plasmid unnamed1, complete sequence	93.42072738563444	36442	0.9279677295428352	False
+K_pneumoniae_ERR13744140	plasmid_AC125	LR134218.1	103343	LR134218.1 Klebsiella pneumoniae strain NCTC10317 genome assembly, plasmid: 2	98.46253751100704	111962	0.9230185241421196	False
+K_pneumoniae_ERR15165597	plasmid_AA277	OW968121.1	170199	OW968121.1 Klebsiella pneumoniae isolate 307 genome assembly, plasmid: P1	99.16560512106417	184413	0.9229230043435116	True
+E_coli_SRR31865359	plasmid_AF242	NZ_CP055112.1	13083	NZ_CP055112.1 Shigella flexneri strain SWHIN_104 plasmid unnamed3, complete sequence	96.39214224566231	14216	0.9203010692177828	False
+K_pneumoniae_ERR15165600	plasmid_AA277	NZ_CP083791.1	168457	NZ_CP083791.1 Klebsiella variicola strain INF352 plasmid pINF352_1, complete sequence	99.3540568334946	183270	0.9191738964369509	True
+K_pneumoniae_ERR15165593	plasmid_AA405	CP041935.1	258614	CP041935.1 Klebsiella pneumoniae strain KP14003 plasmid unnamed1, complete sequence	97.37860927482659	282207	0.9163982466770846	False
+E_coli_SRR36707264	plasmid_AA735	NZ_CP141081.1	76505	NZ_CP141081.1 Escherichia coli strain KE51 plasmid unnamed1, complete sequence	98.99627101496634	83596	0.9151753672424517	False
+E_coli_SRR29213327	plasmid_AA176	NZ_CP126949.1	135020	NZ_CP126949.1 Escherichia coli O78:H4 strain APEC E14033 plasmid pEND_Eco 14033-1, complete sequence	99.38104026810844	147725	0.9139955999323066	True
+K_pneumoniae_SRR31202976	plasmid_AA275	NZ_CP095151.1	189745	NZ_CP095151.1 Klebsiella pneumoniae strain Iso00073 plasmid pIso00073_01, complete sequence	99.13511946032833	207870	0.9128060807235291	True
+K_pneumoniae_SRR31202985	plasmid_AC125	NZ_CP012565.1	104504	NZ_CP012565.1 Klebsiella pneumoniae strain UCLAOXA232KP plasmid pUCLAOXA232-4, complete sequence	99.26709544132281	115454	0.9051570322379476	True
+E_coli_SRR31865332	plasmid_AC042	CP024250.1	18670	CP024250.1 Escherichia coli O182:H21 strain D181 plasmid unnamed2, complete sequence	98.63397498660954	20642	0.9044666214514098	False
+E_coli_SRR31865331	plasmid_AB744	NZ_CP101227.1	30893	NZ_CP101227.1 Escherichia coli strain EC21Z-144 plasmid pEC21Z144-36K, complete sequence	98.04140989868255	34260	0.9017221249270286	False
+Salmonella_ERR5466507	plasmid_AC082	LT904879.1	15399	LT904879.1 Salmonella enterica subsp. enterica serovar Typhi strain ty3-193 genome assembly, plasmid: 2	100.0	17232	0.8936281337047354	True
+Salmonella_ERR5466529	plasmid_AC082	LT904879.1	15399	LT904879.1 Salmonella enterica subsp. enterica serovar Typhi strain ty3-193 genome assembly, plasmid: 2	100.0	17232	0.8936281337047354	True
+Salmonella_ERR5466554	plasmid_AC082	LT904879.1	15399	LT904879.1 Salmonella enterica subsp. enterica serovar Typhi strain ty3-193 genome assembly, plasmid: 2	100.0	17232	0.8936281337047354	True
+K_pneumoniae_ERR15165591	plasmid_AA452	NC_019389.1	97096	NC_019389.1 Klebsiella pneumoniae plasmid pKDO1, complete sequence	99.70553362651397	108821	0.8922542523961368	True
+E_coli_SRR29213328	plasmid_AD672	CP099174.1	9584	CP099174.1 Escherichia coli strain RHB23-SO-C02 plasmid unnamed1, complete sequence	97.03667957011686	10805	0.8869967607589079	False
+K_pneumoniae_ERR13744119	plasmid_AA277	CP006657.1	173392	CP006657.1 Klebsiella pneumoniae JM45 plasmid p1, complete sequence	96.10894623742735	195547	0.8867024295949312	False
+E_coli_SRR29213326	plasmid_AA176	NZ_CP126949.1	132379	NZ_CP126949.1 Escherichia coli O78:H4 strain APEC E14033 plasmid pEND_Eco 14033-1, complete sequence	99.4938430717863	149419	0.8859582783983295	True
+K_pneumoniae_ERR15165590	plasmid_AA277	NZ_CP073628.1	161466	NZ_CP073628.1 Klebsiella pneumoniae isolate KP_NORM_BLD_2012_85054 plasmid unnamed1, complete sequence	99.37575741642203	184434	0.8754676469631413	True
+K_pneumoniae_SRR31202997	plasmid_AA513	NZ_CP017058.1	13099	NZ_CP017058.1 Citrobacter freundii strain SL151 plasmid unnamed1, complete sequence	99.96146285976029	15079	0.8686915577956098	True
+K_pneumoniae_ERR15165594	plasmid_AA277	OW968121.1	174267	OW968121.1 Klebsiella pneumoniae isolate 307 genome assembly, plasmid: P1	99.2459205185147	201111	0.8665214732162836	True
+E_coli_SRR29213288	plasmid_AB690	NZ_CP100531.1	10959	NZ_CP100531.1 Escherichia coli strain LH10-b-1 plasmid pLH10-b-1-A, complete sequence	98.26635669312894	12744	0.8599340866290018	False
+K_pneumoniae_SRR31202995	plasmid_AA513	NZ_CP017058.1	13099	NZ_CP017058.1 Citrobacter freundii strain SL151 plasmid unnamed1, complete sequence	99.96146285976029	15304	0.8559200209095661	True
+K_pneumoniae_SRR31202976	plasmid_AA513	NZ_CP017058.1	13761	NZ_CP017058.1 Citrobacter freundii strain SL151 plasmid unnamed1, complete sequence	99.97810856769131	16220	0.8483970406905056	True
+K_pneumoniae_ERR15165589	plasmid_AA405	NZ_CP023723.1	176303	NZ_CP023723.1 Klebsiella pneumoniae strain TVGHCRE225 plasmid unnamed1, complete sequence	97.18040461024488	208809	0.8443266334305514	False
+K_pneumoniae_ERR15165595	plasmid_AA277	NZ_CP073628.1	153698	NZ_CP073628.1 Klebsiella pneumoniae isolate KP_NORM_BLD_2012_85054 plasmid unnamed1, complete sequence	99.37077390076644	184352	0.8337202742579414	True
+E_coli_SRR31865329	plasmid_AE928	NZ_CP035844.1	71020	NZ_CP035844.1 Escherichia coli strain TW10722 plasmid pTW10722_93, complete sequence	99.92235881441847	86273	0.8232007696498325	True
+K_pneumoniae_SRR32003848	plasmid_AA435	NZ_CP026174.1	40033	NZ_CP026174.1 Klebsiella pneumoniae strain KPNIH50 plasmid pKPN-0d7f, complete sequence	96.00813955986312	49741	0.8048290142940432	False
+K_pneumoniae_ERR15165598	plasmid_AA277	NZ_CP083791.1	144828	NZ_CP083791.1 Klebsiella variicola strain INF352 plasmid pINF352_1, complete sequence	99.48273798574861	183380	0.7897698767586433	False
+E_coli_SRR31865337	plasmid_AA374	NZ_CP063469.1	64530	NZ_CP063469.1 Escherichia coli strain EM20-18-50 plasmid pEM20-18-50_2, complete sequence	99.28411754222843	82585	0.781376763334746	False
+E_coli_SRR29213326	plasmid_AB690	NZ_CP073989.1	4962	NZ_CP073989.1 Escherichia coli strain MB10 plasmid pYLMB10a, complete sequence	99.59667311567917	6414	0.7736202057998129	False
+E_coli_SRR29213325	plasmid_AB690	NZ_CP073989.1	4948	NZ_CP073989.1 Escherichia coli strain MB10 plasmid pYLMB10a, complete sequence	99.59553415521424	6413	0.7715577732730391	False
+E_coli_SRR29213327	plasmid_AB690	NZ_CP073989.1	4948	NZ_CP073989.1 Escherichia coli strain MB10 plasmid pYLMB10a, complete sequence	99.59553415521424	6413	0.7715577732730391	False
+E_coli_SRR29213331	plasmid_AB690	NZ_CP073989.1	4948	NZ_CP073989.1 Escherichia coli strain MB10 plasmid pYLMB10a, complete sequence	99.59553415521424	6413	0.7715577732730391	False
+E_coli_SRR31865359	plasmid_AB192	CP112984.1	28625	CP112984.1 Escherichia ruysiae strain S1-IND-07-A plasmid p1-S1-IND-07-A, complete sequence	99.32936377292577	38220	0.748953427524856	False
+E_coli_SRR29213289	plasmid_AA176	CP057694.1	72776	CP057694.1 Escherichia coli strain RHB17-C10 plasmid pRHB17-C10_2, complete sequence	99.88605016763769	98368	0.7398340923877684	False
+K_pneumoniae_SRR31202985	plasmid_AA450	NZ_CP063940.1	82212	NZ_CP063940.1 Klebsiella pneumoniae strain BM343 plasmid pBM343.1, complete sequence	98.18670153992117	111380	0.7381217453761896	False
+E_coli_SRR31865353	plasmid_AD672	NZ_CP081716.1	9953	NZ_CP081716.1 Escherichia coli strain CX04 plasmid unnamed3, complete sequence	94.80554174620718	13675	0.7278244972577697	False
+E_coli_SRR36707392	plasmid_AA337	NZ_CP103646.1	36242	NZ_CP103646.1 Escherichia coli strain 961 plasmid pMB5823_1, complete sequence	99.91704365101263	50068	0.7238555564432372	False
+Salmonella_SRR32528504	plasmid_AA474	NZ_CP060509.1	28014	NZ_CP060509.1 Salmonella enterica strain SLR1_7697 plasmid pS7697-1, complete sequence	99.96432233883058	39330	0.712280701754386	False
+K_pneumoniae_SRR32003848	plasmid_AA439	OW969683.1	33559	OW969683.1 Klebsiella pneumoniae isolate 392 genome assembly, plasmid: P1	97.16293280491077	48171	0.6966639679475203	False
+K_pneumoniae_SRR31202986	plasmid_AB196	NZ_CP144720.1	23686	NZ_CP144720.1 Klebsiella pneumoniae strain B20121 plasmid pB20121_2, complete sequence	98.34070193363168	34192	0.692735142723444	False
+K_pneumoniae_ERR15165593	plasmid_AA032	CP026154.1	31810	CP026154.1 Klebsiella pneumoniae strain F10(AN) plasmid pF10AN_1, complete sequence	99.33994124489155	46042	0.6908909256765562	False
+K_pneumoniae_ERR15165602	plasmid_AA553	NZ_CP021688.1	19128	NZ_CP021688.1 Klebsiella pneumoniae strain AR_0146 plasmid tig00001189, complete sequence	97.08794709326642	29336	0.6520316334878647	False
+K_pneumoniae_SRR31202914	plasmid_AA405	NZ_CP146994.1	180795	NZ_CP146994.1 Klebsiella pneumoniae strain NXQY01 plasmid unnamed1, complete sequence	96.28429027904532	285051	0.6342549228032879	False
+K_pneumoniae_ERR15165594	plasmid_AC315	NZ_CP082350.1	16143	NZ_CP082350.1 Escherichia coli strain AL.H8 plasmid pAL.H8, complete sequence	99.65923403332715	25868	0.6240528838719653	False
+E_coli_SRR36707355	plasmid_AA749	CP057716.1	50141	CP057716.1 Escherichia coli strain RHB17-C02 plasmid pRHB17-C02_4, complete sequence	99.78680997586805	80478	0.6230398369740798	False
+K_pneumoniae_ERR15165592	plasmid_AA405	NZ_AP023338.1	173427	NZ_AP023338.1 Klebsiella pneumoniae strain MH15-269M plasmid pMH15-269M_1, complete sequence	97.55609850253998	288977	0.6001411877069801	False
+E_coli_SRR36707392	plasmid_AA336	CP124997.1	60300	CP124997.1 Escherichia coli strain KSE-C11 plasmid pKSE-C11_2, complete sequence	99.57372462686567	100804	0.5981905479941272	False
+E_coli_SRR29213325	plasmid_AG659	CP082659.1	12089	CP082659.1 Salmonella enterica subsp. enterica serovar Heidelberg strain CVM N16S098 plasmid pN16S098-1	99.71051691620481	21147	0.5716650115855677	False
+E_coli_SRR31865353	plasmid_AC042	NZ_CP093227.1	14071	NZ_CP093227.1 Escherichia coli strain EC-16-35 plasmid pEC-16-35-2, complete sequence	99.061976973918	24714	0.5693534029295136	False
+K_pneumoniae_ERR15165592	plasmid_AA458	NZ_CP129820.1	67662	NZ_CP129820.1 Klebsiella pneumoniae strain 2020N08-172 plasmid p2020N08-172-154k, complete sequence	99.04977690579646	125577	0.5388088583100409	False
+K_pneumoniae_ERR15165591	plasmid_AD443	NZ_CP141663.1	57572	NZ_CP141663.1 Klebsiella pneumoniae strain KPN708696 plasmid pK708696-2, complete sequence	98.66252572431043	109666	0.5249758357193661	False
+E_coli_SRR29213310	plasmid_AA179	NZ_CP097722.1	84295	NZ_CP097722.1 Escherichia coli strain MS1665 plasmid pMS1665-1, complete sequence	99.03089129841628	161786	0.5210277774343887	False
+K_pneumoniae_ERR15165593	plasmid_AA458	NZ_CP129820.1	52246	NZ_CP129820.1 Klebsiella pneumoniae strain 2020N08-172 plasmid p2020N08-172-154k, complete sequence	99.35309711748269	103573	0.5044364844119607	False
+K_pneumoniae_ERR15165591	plasmid_AA810	NZ_CP131699.1	12922	NZ_CP131699.1 Klebsiella quasipneumoniae strain 2012C06-006 plasmid p2012C06-006-2, complete sequence	96.90441084971367	26315	0.49105073152194567	False
+K_pneumoniae_SRR31202998	plasmid_AF571	NZ_CP007736.1	75802	NZ_CP007736.1 Klebsiella pneumoniae subsp. pneumoniae KPNIH27 plasmid pKPN-b0b, complete sequence	98.10429802643729	159286	0.4758861419082656	False
+E_coli_SRR36707264	plasmid_AA474	NZ_CP071076.1	62844	NZ_CP071076.1 Escherichia coli strain 3347558 plasmid p3347558_3, complete sequence	99.76613511234167	136041	0.4619489712660154	False
+E_coli_SRR31865359	plasmid_novel_e397628870756e722f98e48ec42e6ada	NZ_CP019456.1	17805	NZ_CP019456.1 Escherichia coli strain FHI_NMBU_03 plasmid pFHI_NMBU_03_1, complete sequence	92.99056955911261	40503	0.4395970668839345	False
+E_coli_SRR29213329	plasmid_AA179	NZ_CP100545.1	75649	NZ_CP100545.1 Escherichia coli strain LH09-a plasmid pLH09-a-A, complete sequence	99.13931318325425	172764	0.4378747887291334	False
+E_coli_SRR29213289	plasmid_AA281	NZ_CP027409.1	46314	NZ_CP027409.1 Salmonella enterica subsp. enterica serovar Typhimurium strain FDAARGOS_317 plasmid unnamed, complete sequence	97.43050673662391	106781	0.4337288468922374	False
+K_pneumoniae_ERR15165589	plasmid_AA458	CP028952.1	69895	CP028952.1 Klebsiella aerogenes strain AR_0161 plasmid unnamed, complete sequence	96.88541877101368	178342	0.3919155330768972	False
+K_pneumoniae_ERR15165592	plasmid_AB187	NZ_CP018819.1	21399	NZ_CP018819.1 Klebsiella pneumoniae strain AR_0049 plasmid unitig_3, complete sequence	99.53736697976541	62470	0.3425484232431567	False
+E_coli_SRR29213326	plasmid_AG659	NZ_CP010123.1	2044	NZ_CP010123.1 Escherichia coli strain C5 plasmid A, complete sequence	87.91573189823875	13601	0.15028306742151312	False
+E_coli_SRR29213331	plasmid_AG659	NZ_CP010123.1	2044	NZ_CP010123.1 Escherichia coli strain C5 plasmid A, complete sequence	87.91573189823875	13601	0.15028306742151312	False
+E_coli_SRR29213327	plasmid_AG659	NZ_CP010123.1	2044	NZ_CP010123.1 Escherichia coli strain C5 plasmid A, complete sequence	87.91573189823875	13889	0.14716682266541867	False

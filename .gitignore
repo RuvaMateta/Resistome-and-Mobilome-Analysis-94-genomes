@@ -1,0 +1,44 @@
+# Raw and large sequence data (public on SRA; reproduce with the accession lists)
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.bam
+*.bai
+*.cram
+*.fasta
+*.fa
+*.fna
+*.fasta.gz
+*.fna.gz
+*.aln
+*.dmnd
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+
+# Logs, job output and shell history (may contain other projects, paths or hostnames)
+*.log
+nohup.out
+bash_history*
+.bash_history
+*analysis_commands*
+command_history/
+accession_history/
+MISSING_PATHS.txt
+rsync_log.txt
+ncbi_error_report.txt
+run_checkm2.sh.save
+
+# Credentials and keys
+*.pem
+*.key
+.env
+id_rsa*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
