@@ -42,3 +42,17 @@ id_rsa*
 .DS_Store
 Thumbs.db
 *.swp
+
+# Large MultiQC HTML reports — not tracked
+*_multiqc.html
+fastp_batch*.html
+illumina_batch*_raw_multiqc.html
+illumina_posttrim_multiqc_finale.html
+multiqc_quast_checkm2*.html
+
+# Keep the tiny NanoPlot summaries
+!pacbio_nanoplot_*.html
+
+# Large uncompressed TSVs — use .gz versions instead
+contig_report_all.tsv
+plasmid_pairs.tsv
